@@ -1,0 +1,11 @@
+CyberScan - Relatório
+========================================
+Alvo: google.com
+IP: 172.217.172.142
+Portas: 1 - 1024
+Início: 2026-03-18 20:03:47.358397
+Fim: 2026-03-18 20:12:28.247448
+
+Portas abertas:
+- Porta 80 | HTTP | Baixo risco
+- Porta 443 | HTTPS | Baixo risco
